@@ -24,29 +24,14 @@ I explore how AI can automate or augment:
   – Feedback analysis and prioritization  
   – Product Ops and cross-team alignment
 
-The goal is not “AI everywhere”, but fewer slow, manual steps and better decision quality.
-
-## About me
-
-I’m a senior product leader with experience leading large product teams in B2B SaaS, shipping complex products used by thousands of customers.
-
-I care deeply about:
-• User experience and product quality  
-• Clear product strategy grounded in reality  
-• Strong product operations and scalable team structures  
-• Hands-on problem solving, even at leadership level
-
-Over the years, I’ve worked closely with engineering, design, data, and business teams to turn fuzzy problems into products that ship and evolve.
-
 ## Let’s talk
 
 If you’re:
 • Exploring AI workflows for your product or team  
 • Looking to prototype AI-powered features quickly  
 • Rethinking how your product organization operates  
-• Needing help structuring or scaling a product team  
 
 Feel free to reach out. I’m always interested in meaningful product and AI discussions.
 
-🌐 https://alexandrehumeau.com  
-💬 DM me here or on LinkedIn
+🌐 [alexandrehumeau.com](https://alexandrehumeau.com)  
+💬 DM me here or on [LinkedIn](https://www.linkedin.com/in/alexandrehumeau)
